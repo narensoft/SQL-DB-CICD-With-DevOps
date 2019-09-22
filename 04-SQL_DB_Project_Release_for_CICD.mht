@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D57195.5648B910"
+Content-Type: multipart/related; boundary="----=_NextPart_01D5719B.FA55BC50"
 
 This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
@@ -37,15 +37,15 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Narendra Angane</o:Author>
   <o:LastAuthor>Narendra Angane</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>541</o:TotalTime>
-  <o:Created>2019-09-22T17:00:00Z</o:Created>
-  <o:LastSaved>2019-09-22T17:00:00Z</o:LastSaved>
+  <o:TotalTime>542</o:TotalTime>
+  <o:Created>2019-09-22T17:48:00Z</o:Created>
+  <o:LastSaved>2019-09-22T17:48:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>587</o:Words>
-  <o:Characters>3352</o:Characters>
+  <o:Words>589</o:Words>
+  <o:Characters>3358</o:Characters>
   <o:Lines>27</o:Lines>
   <o:Paragraphs>7</o:Paragraphs>
-  <o:CharactersWithSpaces>3932</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>3940</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -1008,7 +1008,7 @@ ue"
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:3 0 0 0 1 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -1321,7 +1321,7 @@ ul
 span
 style=3D'font-size:14.0pt;line-height:107%;font-family:"Segoe UI",sans-seri=
 f'>Part
-4: Release Pipeline in Azure DevOps<o:p></o:p></span></b></p>
+4: Develop Release Pipeline in Azure DevOps<o:p></o:p></span></b></p>
 
 <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt'><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p>&nbsp;</o:p></span></p>
@@ -1898,9 +1898,8 @@ style=3D'font-family:"Segoe UI",sans-serif'><o:p>&nbsp;</o:p></span></p>
 <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt'><span
 style=3D'font-family:"Segoe UI",sans-serif'>Step 18: You will see in the re=
 sult
-pane the id column from the table. You will not see any data because we hav=
-e not
-added any data. Table is empty.<o:p></o:p></span></p>
+pane the id column from the table. You will not see any data because we have
+not added any data. Table is empty.<o:p></o:p></span></p>
 
 <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt'><span
 style=3D'font-family:"Segoe UI",sans-serif;mso-no-proof:yes'><!--[if gte vm=
@@ -1929,7 +1928,7 @@ deployed the SQL Schema to the Azure SQL Database.<o:p></o:p></span></p>
 
 </html>
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -1994,7 +1993,7 @@ FgAAAAAAAAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN
 0ZCftgAAABsBAAAnAAAAAAAAAAAAAAAAAJ0KAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFn
 ZXIueG1sLnJlbHNQSwUGAAAAAAUABQBdAQAAmAsAAAAA
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -2004,7 +2003,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -3143,7 +3142,7 @@ ZsSvv/76iy+++Nhjj61ZswZmKGMvDZWwAdpzzz2HRSasDMFMA1CPJQWUEMYpP/nJT6hWfMOGDdie
 Dx3aJePSVaGentDTz/yjAcP/YUYoo6XAGOolsR1TgAnNUMnU2LGMQb/KNOzAS7pkCTmVTDXHQExG
 AxOJo8NjGkrnwciIDmGaflpC/f8BFW0Se4KrdjEAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -4915,7 +4914,7 @@ BcbnP/95rDNg9aFBbo8mGdEIKMQ45R//8R+lFf/IRz6Ce74Rc492aVeos7PrS1/+nzkM/yv+TAGg
 Ho21lb0/owHVrLc96xD6ld+wg4faskRONcvI49hYVOQpL+yUwVRhs2RoyrcS6v8f0jaI5brFORoA
 AAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image003.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -6365,7 +6364,7 @@ mVgZwk0DVo+nBCjEOeXv/u7vxCp+7733sj0fG9pJ88qqUGdn19e+/j9tHP9HOKGMVUIIqCfl7bgS
 nNeAqqbGvmcM46rcsYOHsmSJnqqmmuMQJmMxk8IZ8ExDZR5MRfIKS/mBhvr/A3sjAeLyGptUAAAA
 AElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image004.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -7644,7 +7643,7 @@ F784qtJpZDJgMsyIX3/99RdeeOHxxx9fsWIFzFAuPDdUwgZov/jFL7DIhJUhmGkA6guJATmEccrP
 fvYzqhV/5JFHsD0fOrTzvktXhfr6Qs9+/3sGDP9HGKGMFQMj1PNie0EBxjWhkqmxYxmDdpVt2IGH
 dMkSciqZal7AYDIWmIgcDR7TUDoPRkK0C9P4MxLq/w+mZEf8L70/kAAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image005.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -9220,7 +9219,7 @@ VJdoHYCKDurJJ5/80z/+k9ampu5LxhUnr66AooBo15966imMy1DuXz4Z9HKQm/H6yU9+Eo6SXY2h
 A+roB5jD5Mje1lV4yb44A0ymf7Zhh2jj1CajX9nBDX2O9CYTmTNPlQGmw22qjRLnkvxdQP3/AYIu
 L3aiTSdRAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image006.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -10374,7 +10373,7 @@ jjCUoT+XGpoA7cknn8QiE1aGEKYBqIdSA1qI4JRf/vKX1Ct+1113YXs+fGgXvZdqDO3toUd/+hMD
 sdiDO/H6VMUE6kWxHVKBz7RAJTkLnegQkqUkLbCDeuPIIiMCMx1zdkhYDVQIlYPgMVupxUwUX+eg
 9acs1P8PiuFX21RC7NkAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image007.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -11928,7 +11927,7 @@ gehMzZkzh4E7mJZzHoFU53vf+54MuvIxah4gq81iDgEAhlo7wMYqwBb461//ulQOOG+XQTJ2xG+9
 efPKHUNbW/u3v/PNJLrYZxfi9SnKBdTz0nZQCa5pQBU+C23tEOGlJEOxQ0rjxCEjipk2OzsoWg2U
 iMIZ8MxWyTGLja99yfIdDvX/ByQQvDDOdYfDAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image008.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -13435,7 +13434,7 @@ f4iSCc0QZhqQejg5UEOMU/7hH/5BSsWffvppjucjQxvyXbljaGtr/+53vm1hhd1nhKIA9SLpFKAO
 OYwGSiD8EDp2ctK4MtOwQ0rjhJIRw8w+HfBVFSL4VAY8s1VyzGLj61wy/zSH+v8DgVX9Wree32oA
 AAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image009.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -14788,7 +14787,7 @@ ZPkgGTPiJ5988rHHHvvc5z5322234YYycTJE0YRpP/zhD1lkYmUINw1YPZESoBDnlO9///tiFX/w
 wQfZno8N7YR5ZVWou7vn24/8TRb35LGNeCcsapwEPqCOyZxzGlDV1Nj1DqFfFTt2iDVOLTLimFlY
 Az65DkbhdHimoTIPdo8yVJeU72mo/z9PjpdLVUrdYgAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image010.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -16282,7 +16281,7 @@ N27ciBnKKKuT4E0VEO3v//7v2WRiZwgzDUg9mhJoIcYpf/d3fye14k8//TTH89GhjZhXrhja2zv+
 6tt/YWCF3WeEogD1EukUoI44jIZKIPwQWnZy0rgy07BDauPEJiOGmZY4e0U1iEwULmILukXcKr6K
 ha91yfJtCfX/B55b07OIl5EIAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image011.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -17698,7 +17697,7 @@ w88CBqQRcUMCDD1wTvnud7+L23ELbFdYnj+ae6lVqKur+xvf/FsDjv+jeE20PIxQR/NeRk5zUxOq
 4w9ILCBUM+dqCKg2jhgZYUsZSYE6PIbIHP0UUiydOxJDiXPQ/F1C/f/FanxyH13LpQAAAABJRU5E
 rkJggk==
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image012.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -19211,7 +19210,7 @@ BH711VefeeaZL3/5y/fddx9mKNN/rOQCEO2f/umf2GT63d/9Xcw0IPV0aqCF9fX1f/d3fye14k89
 9RTu+dieTHmvXDEMDAx+93t/HscW++JKvMmrUoA6JamnV+C6AlSxgDMtY0SUkgzDDlP3k0o3KZaa
 H2NjkcoZ8GbYKQGqEpulDM0T04D6/wG/7ilVqG/+CwAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image013.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -20531,7 +20530,7 @@ GEVDbsF511133QMPPIBSj6WwqFNokv75n/8ZThCoWXbcx5j5h0gRjeE73/kO3B++9rWvwTgEkM+U
 U/Y7xghYZzElB53DaQ7uYCRbn/FdhM/ltH/913/q6+8eRbd2xnguywCcKce12jxzNXmuFFk9SWZD
 GxtLsxw2X2jSiIRsq9QZyZJIIi8ujyn/fwj7G4XwPYg+AAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image014.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -21998,7 +21997,7 @@ O6CGcvkVoKsAQPv+97+PQ6bf+73fg+4GoL6cHFBDKKf8wz/8A5WKP/3003fccQdUMy75Lj0VQmzg
 b337rxFMeQoh3iWzmrMJGEG9Ll1HnM5benJgJWl0SHsRoMdA5JARipnWtvuKa4DMMeAxW2kmlDZT
 Hhr52wT1/wckGg0frhqA5QAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image015.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -23158,7 +23157,7 @@ KUM45U9/6d5Z46YnjB4NZEw9cE751a9+xXcNPv7xj8Plu6OXZkcM+RZdKBT+twd+Zhu9OGtOhNpL
 6e5h8gtAQ+1hS3gyCBgPYGRgGekulPmXfMsSeqqrSvR8IZddOI+skI6niIK47zTPP02o/x/owLFT
 oDjRTgAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image016.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -24159,7 +24158,7 @@ LZE5TTAnj3Dcf//9tFAUeznVoHmW8hTPPvusZCBs3rwZeIPUMyES7yI45fHHHxerOFVcCPkujdIs
 bUq8QvANqnSR1/HQQw/lUyaKqFo6/Lx8Q4ePHDn81NPfFUIpXflDQJ3JtJW55y9AQ53VyMSNxeZK
 IkaOf8SGixI3g56qZMwLYIM0zoKXRUvHeJHwWGk/D6j/B0uJxoPXzBa0AAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image017.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -25379,7 +25378,7 @@ GjUDZR/ZGthgL8UMHGi/AmuECPy5z32OOQectckoBGtLiJyGMycewfH5z38eJWT4Xg7VaDyL9BT/
 sPkp+QYV3rNn1y/+/ecMKKIrc4Z6Lt02yD0TQEMdUcvYMhYmlwExsndjO1xkfjPQU4mMeQFkEIVj
 wLNBi4rhRYzGsvJTDPX/A10Ht6Sh9nxCAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/image018.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -26786,7 +26785,7 @@ jfdSjMCx+itQI5bAf/7nf06NA85bZWSCvSV4TsOYE4/g+ou/+AvkMMr2cqJK41mEp/jVr35FPRA+
 Pnr00C/+938oUERWZoR6/kYbN8UckFAvqGZ0GwuDSyUHYiR2U3CT2s1ATiVrzGlMg8h8KJ4iWQPh
 RXSOpfknCfX/B99FZfHUa/GpAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/header.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
@@ -26873,7 +26872,7 @@ r'><![if !supportFootnotes]>
 
 </html>
 
-------=_NextPart_01D57195.5648B910
+------=_NextPart_01D5719B.FA55BC50
 Content-Location: file:///C:/AA12ACA4/04-SQL_DB_Project_Release_for_CICD_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -26903,4 +26902,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"header.htm"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D57195.5648B910--
+------=_NextPart_01D5719B.FA55BC50--

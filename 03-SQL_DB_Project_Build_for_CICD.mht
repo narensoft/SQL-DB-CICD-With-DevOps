@@ -1,9 +1,9 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D57195.4386C830"
+Content-Type: multipart/related; boundary="----=_NextPart_01D5719B.DB463A60"
 
 This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
@@ -37,15 +37,15 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Narendra Angane</o:Author>
   <o:LastAuthor>Narendra Angane</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>346</o:TotalTime>
-  <o:Created>2019-09-22T16:59:00Z</o:Created>
-  <o:LastSaved>2019-09-22T16:59:00Z</o:LastSaved>
+  <o:TotalTime>347</o:TotalTime>
+  <o:Created>2019-09-22T17:47:00Z</o:Created>
+  <o:LastSaved>2019-09-22T17:47:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>495</o:Words>
-  <o:Characters>2828</o:Characters>
+  <o:Words>497</o:Words>
+  <o:Characters>2834</o:Characters>
   <o:Lines>23</o:Lines>
   <o:Paragraphs>6</o:Paragraphs>
-  <o:CharactersWithSpaces>3317</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>3325</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -1008,7 +1008,7 @@ ue"
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:3 0 0 0 1 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -1324,7 +1324,7 @@ ul
 span
 style=3D'font-size:14.0pt;line-height:107%;font-family:"Segoe UI",sans-seri=
 f'>Part
-3: Build Pipeline in Azure DevOps<o:p></o:p></span></b></p>
+3: Develop Build Pipeline in Azure DevOps<o:p></o:p></span></b></p>
 
 <p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt'><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p>&nbsp;</o:p></span></p>
@@ -1831,7 +1831,7 @@ p></span></p>
 
 </html>
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
@@ -1896,7 +1896,7 @@ FgAAAAAAAAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN
 0ZCftgAAABsBAAAnAAAAAAAAAAAAAAAAAJ0KAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFn
 ZXIueG1sLnJlbHNQSwUGAAAAAAUABQBdAQAAmAsAAAAA
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
@@ -1906,7 +1906,7 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -3470,7 +3470,7 @@ Og18DEjGivj111//7W9/+4lPfGLFihWYoVx8a6SEDdF++tOfssnEzhBmGpD6Ymqghewh/ehHP5Ja
 8UcffRT3fHRoF7xX7gqRG/jb3/m/JFM+jxLPANQLEvNyCtzUgCqWxrplDPMq2bCDi3LLEjlVLCMv
 gpkMRVsqZ8KzDJXrYB4kX2FZf0JC/f8B571GwIj3rv0AAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -4612,7 +4612,7 @@ q/PjH/8YES9nPfiSCY4aAGRxqI73ypJJxqINRH+ACsD+4Ktf/eqoSqeR2YCTYUb85ptvvvzyy48/
 7HN/b8Dwf4QRylgpMIZ6SWwvK8CEZqhkauxYxqBfZRp24CVdsoScSqaal0FMxgITiaPDYxpK58HI
 iA5hmn5aQv3/ARrg83rYSVWiAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image003.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -5916,7 +5916,7 @@ sx8DJsOK+IUXXnj22Wc/8YlPPPjggzBDmXtpqIQN0L797W9jkwk7QzDTANRzyQElxB7S3/3d31Gt
 +NNPPw33fHIi/du96K5QKBT+ylf/pw7D/1lGKFfKgBHq20E7t9/f04RKlsa2ZQz6VbFhB76kdjOQ
 U8lScw6TyZXQROb0hEq6DiYngdovmn9BQv3/AchJmnNH+lIkAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image004.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -7282,7 +7282,7 @@ xRFXX9si5jUQwLWWG8SGUQD2B1/84hcHVToNyveYEb/zzjuvvvrq888/v2bNGpihDD9dKmEDtB/9
 iu2wAkxoQiU+C23rELSrVMMOqo0ji4wwzLTF2WFhNVggRI4Gj95KJWYkRMdYGr8jof7/hbGW0ZkH
 9pcAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image005.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -8854,7 +8854,7 @@ yAHSSLLTQs6Q/uVf/oXsZOHsCvP8keSVUyGs7P/h63+fTKLeOAw3IA04h3yPX11AHclrGibNVQ2o
 6mDe1g5h8OQrdog0Th0yophpbwEvknq2bJl5ymyV3bY6KLEvKd/hUP//aSfAX2d4C4QAAAAASUVO
 RK5CYIJ=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image006.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -10289,7 +10289,7 @@ YaYB1ONJgRyyhvTP//zPUiv+2GOPsT0fHdqYceWMoaur+ytf/XIWW+zzK/GGJaUIdUxsxxXgmiZU
 4bPQtQ4RXkryDDukNk4sMmKY6Yqz48JqtEAkToOnt0qJWUx83Uum70mo/z+uN+rAMqXH/gAAAABJ
 RU5ErkJggk==
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image007.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -11985,7 +11985,7 @@ QCw1IKCxt74EQDUIlgFURL6PP/74H/63/+7v6uo7Hx5VspqVZ1OAccP1e7/3eyiXsWKOggDgQ3wP
 V3YMHR2d3/6HbyXQxR5aiDd8USagXpTUgye4rgFV+SzUtUOUl5IsxQ6RxqlDRhQze8+AL42AFM6A
 Z7YKx6w2vvol5Rsc6v8fe1T2WwqIs88AAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image008.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -13578,7 +13578,7 @@ rACVYVVBULmqCFAU+sXoX2Ey5uP8i2F86mMvQmHm5+WVlJbKoD0sNSCgu7c+C0B1KZsFVES+Dz/8
 T0vbQSW4pAFV+Cx0tEOEl5IcxQ4pjROHjChmOmcrg6LVQIkonAHPbJUcs9j4Opcs3+VQ/38dZmNL
 n94RmAAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image009.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -15265,7 +15265,7 @@ kyF0NyD1SHKghpwhfec73xGp+GOPPYZ5PjK0Yd+VUyEkW3/3d39HN11AiJeVFVodFqAaNLEAdehR
 pvwQGnpyolyZqdgh0jh1yMjxsHG2MuxAPV8CMmfAM1tlt602vsYl+Zsc6v8PfeYCqpMVjjUAAAAA
 SUVORK5CYIJ=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image010.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -16901,7 +16901,7 @@ yT+XMpog2i9+8QsomaAZgu0GSD2ZGtBC6JB++tOfUqn4Y489Bvd8yNAuey/dMfT29n3v+9+VYIt9
 aSHeqKp0QL0sbSdVYFYDKolZqFmHkCglMYYdVBpHlIwwzNTY2UnRarxCqBwDHrOVcsxk46sdtP4o
 h/r/AyDAamltObnyAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image011.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -18298,7 +18298,7 @@ gpkGoJ5IDMgh1pD+8R//kWrFn3/+eWzPhw7tuu/SVaG+vuC3v/NXOgz/RxmhjBcDI9TrYjuhALOa
 UMnU2LaMQbtKN+zAQ7pkCTmVTDUnMJiMByYiR4PHNJTOg5EQ7cI0fkdC/f8BF2xwsl/iZmYAAAAA
 SUVORK5CYIJ=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image012.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -19967,7 +19967,7 @@ v4+SCc0QthuQejw10EJ0SP/yL/8ipeLPPfcc7vnI0M57r9wxdHf3fPs734phi31uId6IqkxAPS9t
 x1VgSgOqiFloWIeIKCUphh1SGieUjBhmGuzsuGg1WiEqZ8AzWyXHLDa+xiHrT3Ko/x/2/6Ow2fVL
 4gAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image013.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -21417,7 +21417,7 @@ E6+GFDQh2re//W02mdgZwnYDUk+kBGrIHtLf/u3fSq34hz/8YY7no0O7aF65K9Tb2/e1r/+5iXny
 hZV4o4ryAfWitJ1QgisaUN3oDcI6RHgpKTLskNo4scmIYaa77J4QrcZKROEMeJahch3shjIUlyzf
 k1D/f4RJpppgDfNJAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image014.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -23059,7 +23059,7 @@ t5/85CfvuusuzFBG3mvZDIj2wx/+ECXT17/+dWw3IPVIamDpwTjl3/7t36RU/JlnnsE9HxnaBe+V
 WqGuru7vfu87MWyxzy/EG1SVAagXpO2ICoxrQBUxC3XrEBGlJM2wQ0rjhJIRw0xdvDQiWg1ViMoZ
 8GxDJccsNr76IetPAer/H4HgwluESFmxAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image015.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -24901,7 +24901,7 @@ pb+/n9M5hdzVrl27ajlXbIJgEOqAL0+eyOUg0KmUTayEbeIPz/meCvIGPFQvKV5LrqoW+VQ8ZjE9
 1LmA+ljm8n/AQ61X4LxEpiWmJbEQ71yVsiFbIXpYw2JSclM1Q/iwtoDWqnhK/YWP8lvmeqj/AgP6
 JQWoFtd4AAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image016.jpg
 Content-Transfer-Encoding: base64
 Content-Type: image/jpeg
@@ -27186,7 +27186,7 @@ UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABT3ld40jZsrGCFGOmTmiigBlFFFAh80rzytJI
 252OSaZRRQAUUUUALRRRQAUUUUALUnnZ++iufU5z+lFFAB5uPuxop9eT/M1GSWJJJJPc0UUAFPk+
 5F/u/wBTRRQB/9k=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image017.jpg
 Content-Transfer-Encoding: base64
 Content-Type: image/jpeg
@@ -27940,7 +27940,7 @@ D2p/9kad/wA+Fr/35X/CiigDlfiFY2trots9vbQxMbjBMcYUkbT6V59RRSYBRRRSGFFFFAIKKKKB
 hRRRQSFPHSiigAooooAZRRRVAFFFFSAUUUUAFFFFNAFFFFMAooooAKKKKACiiigAooooAKPSiigk
 ctLRRQA7JBGCR9KByTRRQA6fqn+4v8qKKKAP/9k=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image018.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -29502,7 +29502,7 @@ v/SlL917770wQ5l9pygXANF+9rOfYZPpz/7sz2CmAVLPpgS0sKWl5Sc/+QnVin/605/euXMnTDOu
 mpfuCo2Ojn3/B99TYJ6cZoRy1byzT2AC6mVp9ZEGVMOxL7EOwbxKN+yg2jiyyQjDzKspUK88zVA4
 JrzhdopwJIrNVIZG+SkJ9f8HtkF1WLblhqgAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/image019.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
@@ -31345,7 +31345,7 @@ kYxFdmCiSAOKkISCLfF5P9zfG5617Gc/2JHW/KbtAui8txsb9+3b98gjj2zYsAHOmstAyWqlyM9A
 jIaOd6lC3Uh+fKNcX3mGmlYWcxzRmdVQc/yoyENoySHsa2mZy7T2S/YsvBW5KdnjPpruEbQFsTVt
 fJabSH4oU0P9H1Bi8QxLQjpuAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/header.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
@@ -31432,7 +31432,7 @@ r'><![if !supportFootnotes]>
 
 </html>
 
-------=_NextPart_01D57195.4386C830
+------=_NextPart_01D5719B.DB463A60
 Content-Location: file:///C:/AA12ACA4/03-SQL_DB_Project_Build_for_CICD_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
@@ -31463,4 +31463,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"header.htm"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D57195.4386C830--
+------=_NextPart_01D5719B.DB463A60--
