@@ -1,10 +1,10 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01D57185.E688C610"
+Content-Type: multipart/related; boundary="----=_NextPart_01D57195.6CF1CF30"
 
 This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD.htm
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
 
@@ -21,10 +21,10 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 <meta name=3DProgId content=3DWord.Document>
 <meta name=3DGenerator content=3D"Microsoft Word 15">
 <meta name=3DOriginator content=3D"Microsoft Word 15">
-<link rel=3DFile-List href=3D"SQL_DB_Project_TableAddModify_CICD_files/file=
-list.xml">
+<link rel=3DFile-List
+href=3D"05-SQL_DB_Project_TableAddModify_CICD_files/filelist.xml">
 <link rel=3DEdit-Time-Data
-href=3D"SQL_DB_Project_TableAddModify_CICD_files/editdata.mso">
+href=3D"05-SQL_DB_Project_TableAddModify_CICD_files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -37,15 +37,15 @@ w\:* {behavior:url(#default#VML);}
   <o:Author>Narendra Angane</o:Author>
   <o:LastAuthor>Narendra Angane</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>823</o:TotalTime>
-  <o:Created>2019-09-22T15:09:00Z</o:Created>
-  <o:LastSaved>2019-09-22T15:09:00Z</o:LastSaved>
+  <o:TotalTime>824</o:TotalTime>
+  <o:Created>2019-09-22T17:01:00Z</o:Created>
+  <o:LastSaved>2019-09-22T17:01:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>1075</o:Words>
-  <o:Characters>6134</o:Characters>
+  <o:Words>1077</o:Words>
+  <o:Characters>6140</o:Characters>
   <o:Lines>51</o:Lines>
   <o:Paragraphs>14</o:Paragraphs>
-  <o:CharactersWithSpaces>7195</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>7203</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:CustomDocumentProperties>
@@ -78,9 +78,9 @@ d11-ebb85995028c_ActionId>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=3DthemeData
-href=3D"SQL_DB_Project_TableAddModify_CICD_files/themedata.thmx">
+href=3D"05-SQL_DB_Project_TableAddModify_CICD_files/themedata.thmx">
 <link rel=3DcolorSchemeMapping
-href=3D"SQL_DB_Project_TableAddModify_CICD_files/colorschememapping.xml">
+href=3D"05-SQL_DB_Project_TableAddModify_CICD_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -1148,14 +1148,14 @@ span.GramE
 	line-height:107%;}
  /* Page Definitions */
  @page
-	{mso-footnote-separator:url("SQL_DB_Project_TableAddModify_CICD_files/head=
-er.htm") fs;
-	mso-footnote-continuation-separator:url("SQL_DB_Project_TableAddModify_CIC=
-D_files/header.htm") fcs;
-	mso-endnote-separator:url("SQL_DB_Project_TableAddModify_CICD_files/header=
-.htm") es;
-	mso-endnote-continuation-separator:url("SQL_DB_Project_TableAddModify_CICD=
-_files/header.htm") ecs;}
+	{mso-footnote-separator:url("05-SQL_DB_Project_TableAddModify_CICD_files/h=
+eader.htm") fs;
+	mso-footnote-continuation-separator:url("05-SQL_DB_Project_TableAddModify_=
+CICD_files/header.htm") fcs;
+	mso-endnote-separator:url("05-SQL_DB_Project_TableAddModify_CICD_files/hea=
+der.htm") es;
+	mso-endnote-continuation-separator:url("05-SQL_DB_Project_TableAddModify_C=
+ICD_files/header.htm") ecs;}
 @page WordSection1
 	{size:8.5in 11.0in;
 	margin:1.0in 1.0in 1.0in 1.0in;
@@ -1259,8 +1259,8 @@ ul
 <div class=3DWordSection1>
 
 <p class=3DMsoNormal><b><span style=3D'font-size:14.0pt;font-family:"Segoe =
-UI",sans-serif'>Test
-Azure SQL Database CI/CD with Azure DevOps<o:p></o:p></span></b></p>
+UI",sans-serif'>Part
+5: Test Azure SQL Database CI/CD with Azure DevOps<o:p></o:p></span></b></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
 >&nbsp;</o:p></span></p>
@@ -1351,11 +1351,12 @@ yes'><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75" coordsize=3D"21600,2=
 =3D"#_x0000_t75"
  style=3D'width:459.6pt;height:258.6pt;visibility:visible;mso-wrap-style:sq=
 uare'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image001.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image001.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D613 height=3D345
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image001.png" v:shapes=3D"P=
-icture_x0020_1"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image001.png" v:shapes=
+=3D"Picture_x0020_1"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1372,11 +1373,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_2" o:spid=3D"_x0000_i1=
 057"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image002.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image002.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image002.png" v:shapes=3D"P=
-icture_x0020_2"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image002.png" v:shapes=
+=3D"Picture_x0020_2"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1396,11 +1398,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_3" o:spid=3D"_x0000_i1=
  type=3D"#_x0000_t75" style=3D'width:459.6pt;height:258.6pt;visibility:visi=
 ble;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image003.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image003.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D613 height=3D345
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image003.png" v:shapes=3D"P=
-icture_x0020_3"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image003.png" v:shapes=
+=3D"Picture_x0020_3"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1417,11 +1420,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_4" o:spid=3D"_x0000_i1=
 055"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image004.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image004.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image004.png" v:shapes=3D"P=
-icture_x0020_4"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image004.png" v:shapes=
+=3D"Picture_x0020_4"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1445,11 +1449,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_5" o:spid=3D"_x0000_i1=
 054"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image005.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image005.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image005.png" v:shapes=3D"P=
-icture_x0020_5"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image005.png" v:shapes=
+=3D"Picture_x0020_5"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1468,11 +1473,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_7" o:spid=3D"_x0000_i1=
 053"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image006.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image006.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image006.png" v:shapes=3D"P=
-icture_x0020_7"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image006.png" v:shapes=
+=3D"Picture_x0020_7"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1500,11 +1506,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_8" o:spid=3D"_x0000_i1=
 052"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image007.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image007.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image007.png" v:shapes=3D"P=
-icture_x0020_8"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image007.png" v:shapes=
+=3D"Picture_x0020_8"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1521,11 +1528,12 @@ l 1]><v:shape
  id=3D"Picture_x0020_11" o:spid=3D"_x0000_i1051" type=3D"#_x0000_t75" style=
 =3D'width:459.6pt;
  height:258pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image008.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image008.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D613 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image008.png" v:shapes=3D"P=
-icture_x0020_11"><![endif]></span></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image008.png" v:shapes=
+=3D"Picture_x0020_11"><![endif]></span></span><span
 style=3D'mso-bookmark:_Hlk19996814'><span style=3D'font-family:"Segoe UI",s=
 ans-serif'><o:p></o:p></span></span></p>
 
@@ -1545,11 +1553,12 @@ l 1]><v:shape
  id=3D"Picture_x0020_12" o:spid=3D"_x0000_i1050" type=3D"#_x0000_t75" style=
 =3D'width:459.6pt;
  height:258.6pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image009.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image009.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D613 height=3D345
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image009.png" v:shapes=3D"P=
-icture_x0020_12"><![endif]></span></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image009.png" v:shapes=
+=3D"Picture_x0020_12"><![endif]></span></span><span
 style=3D'mso-bookmark:_Hlk19996814'><span style=3D'font-family:"Segoe UI",s=
 ans-serif'><o:p></o:p></span></span></p>
 
@@ -1569,11 +1578,12 @@ l 1]><v:shape
  id=3D"Picture_x0020_13" o:spid=3D"_x0000_i1049" type=3D"#_x0000_t75" style=
 =3D'width:459pt;
  height:258pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image010.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image010.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image010.png" v:shapes=3D"P=
-icture_x0020_13"><![endif]></span></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image010.png" v:shapes=
+=3D"Picture_x0020_13"><![endif]></span></span><span
 style=3D'mso-bookmark:_Hlk19996814'><span style=3D'font-family:"Segoe UI",s=
 ans-serif'><o:p></o:p></span></span></p>
 
@@ -1595,11 +1605,12 @@ l 1]><v:shape
  id=3D"Picture_x0020_14" o:spid=3D"_x0000_i1048" type=3D"#_x0000_t75" style=
 =3D'width:459pt;
  height:258pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image011.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image011.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image011.png" v:shapes=3D"P=
-icture_x0020_14"><![endif]></span></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image011.png" v:shapes=
+=3D"Picture_x0020_14"><![endif]></span></span><span
 style=3D'mso-bookmark:_Hlk19996814'><span style=3D'font-family:"Segoe UI",s=
 ans-serif'><o:p></o:p></span></span></p>
 
@@ -1636,11 +1647,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_17" o:spid=3D"_x0000_i=
 1047"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image012.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image012.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image012.png" v:shapes=3D"P=
-icture_x0020_17"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image012.png" v:shapes=
+=3D"Picture_x0020_17"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1659,11 +1671,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_18" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:458.4pt;height:258pt;visibility:visibl=
 e;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image013.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image013.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D611 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image013.png" v:shapes=3D"P=
-icture_x0020_18"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image013.png" v:shapes=
+=3D"Picture_x0020_18"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1682,11 +1695,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_19" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:458.4pt;height:258pt;visibility:visibl=
 e;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image014.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image014.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D611 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image014.png" v:shapes=3D"P=
-icture_x0020_19"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image014.png" v:shapes=
+=3D"Picture_x0020_19"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1704,11 +1718,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_23" o:spid=3D"_x0000_i=
 1044"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image015.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image015.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image015.png" v:shapes=3D"P=
-icture_x0020_23"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image015.png" v:shapes=
+=3D"Picture_x0020_23"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1727,11 +1742,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_24" o:spid=3D"_x0000_i=
 1043"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image016.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image016.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image016.png" v:shapes=3D"P=
-icture_x0020_24"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image016.png" v:shapes=
+=3D"Picture_x0020_24"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1756,11 +1772,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_41" o:spid=3D"_x0000_i=
 1042"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image017.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image017.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image017.png" v:shapes=3D"P=
-icture_x0020_41"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image017.png" v:shapes=
+=3D"Picture_x0020_41"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1780,11 +1797,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_42" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:459.6pt;height:258pt;visibility:visibl=
 e;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image018.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image018.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D613 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image018.png" v:shapes=3D"P=
-icture_x0020_42"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image018.png" v:shapes=
+=3D"Picture_x0020_42"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1808,11 +1826,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_43" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:458.4pt;height:257.4pt;visibility:visi=
 ble;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image019.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image019.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D611 height=3D343
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image019.png" v:shapes=3D"P=
-icture_x0020_43"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image019.png" v:shapes=
+=3D"Picture_x0020_43"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1830,11 +1849,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_48" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:458.4pt;height:258pt;visibility:visibl=
 e;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image020.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image020.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D611 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image020.png" v:shapes=3D"P=
-icture_x0020_48"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image020.png" v:shapes=
+=3D"Picture_x0020_48"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1869,11 +1889,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_47" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:458.4pt;height:258pt;visibility:visibl=
 e;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image021.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image021.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D611 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image021.png" v:shapes=3D"P=
-icture_x0020_47"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image021.png" v:shapes=
+=3D"Picture_x0020_47"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1901,11 +1922,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_50" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:458.4pt;height:258pt;visibility:visibl=
 e;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image022.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image022.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D611 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image022.png" v:shapes=3D"P=
-icture_x0020_50"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image022.png" v:shapes=
+=3D"Picture_x0020_50"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1927,11 +1949,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_58" o:spid=3D"_x0000_i=
 1036"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image023.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image023.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image023.png" v:shapes=3D"P=
-icture_x0020_58"><![endif]><o:p></o:p></span></p>
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image023.png" v:shapes=
+=3D"Picture_x0020_58"><![endif]><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
 >&nbsp;</o:p></span></p>
@@ -1948,11 +1971,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_56" o:spid=3D"_x0000_i=
 1035"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image024.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image024.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image024.png" v:shapes=3D"P=
-icture_x0020_56"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image024.png" v:shapes=
+=3D"Picture_x0020_56"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1970,11 +1994,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_59" o:spid=3D"_x0000_i=
 1034"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image025.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image025.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image025.png" v:shapes=3D"P=
-icture_x0020_59"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image025.png" v:shapes=
+=3D"Picture_x0020_59"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -1992,11 +2017,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_60" o:spid=3D"_x0000_i=
 1033"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image026.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image026.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image026.png" v:shapes=3D"P=
-icture_x0020_60"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image026.png" v:shapes=
+=3D"Picture_x0020_60"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2014,11 +2040,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_61" o:spid=3D"_x0000_i=
 1032"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image027.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image027.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image027.png" v:shapes=3D"P=
-icture_x0020_61"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image027.png" v:shapes=
+=3D"Picture_x0020_61"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2043,11 +2070,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_62" o:spid=3D"_x0000_i=
 1031"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image028.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image028.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image028.png" v:shapes=3D"P=
-icture_x0020_62"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image028.png" v:shapes=
+=3D"Picture_x0020_62"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2065,11 +2093,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_69" o:spid=3D"_x0000_i=
 1030"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image029.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image029.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image029.png" v:shapes=3D"P=
-icture_x0020_69"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image029.png" v:shapes=
+=3D"Picture_x0020_69"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2087,11 +2116,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_70" o:spid=3D"_x0000_i=
 1029"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image030.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image030.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image030.png" v:shapes=3D"P=
-icture_x0020_70"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image030.png" v:shapes=
+=3D"Picture_x0020_70"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2109,11 +2139,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_71" o:spid=3D"_x0000_i=
 1028"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image031.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image031.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image031.png" v:shapes=3D"P=
-icture_x0020_71"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image031.png" v:shapes=
+=3D"Picture_x0020_71"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2131,11 +2162,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_72" o:spid=3D"_x0000_i=
 1027"
  type=3D"#_x0000_t75" style=3D'width:459pt;height:258pt;visibility:visible;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image032.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image032.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D612 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image032.png" v:shapes=3D"P=
-icture_x0020_72"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image032.png" v:shapes=
+=3D"Picture_x0020_72"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2158,11 +2190,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_77" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:460.2pt;height:258.6pt;visibility:visi=
 ble;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image033.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image033.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D614 height=3D345
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image033.png" v:shapes=3D"P=
-icture_x0020_77"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image033.png" v:shapes=
+=3D"Picture_x0020_77"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2196,11 +2229,12 @@ yes'><!--[if gte vml 1]><v:shape id=3D"Picture_x0020_76" o:spid=3D"_x0000_i=
  type=3D"#_x0000_t75" style=3D'width:458.4pt;height:258pt;visibility:visibl=
 e;
  mso-wrap-style:square'>
- <v:imagedata src=3D"SQL_DB_Project_TableAddModify_CICD_files/image034.png"
+ <v:imagedata src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image034.p=
+ng"
   o:title=3D""/>
 </v:shape><![endif]--><![if !vml]><img border=3D0 width=3D611 height=3D344
-src=3D"SQL_DB_Project_TableAddModify_CICD_files/image034.png" v:shapes=3D"P=
-icture_x0020_76"><![endif]></span><span
+src=3D"05-SQL_DB_Project_TableAddModify_CICD_files/image034.png" v:shapes=
+=3D"Picture_x0020_76"><![endif]></span><span
 style=3D'font-family:"Segoe UI",sans-serif'><o:p></o:p></span></p>
 
 <p class=3DMsoNormal><span style=3D'font-family:"Segoe UI",sans-serif'><o:p=
@@ -2222,8 +2256,8 @@ You have completed both the test cases<o:p></o:p></span></p>
 
 </html>
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/themedata.thmx
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/themedata.thmx
 Content-Transfer-Encoding: base64
 Content-Type: application/vnd.ms-officetheme
 
@@ -2287,8 +2321,8 @@ FgAAAAAAAAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN
 0ZCftgAAABsBAAAnAAAAAAAAAAAAAAAAAJ0KAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFn
 ZXIueG1sLnJlbHNQSwUGAAAAAAUABQBdAQAAmAsAAAAA
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/colorschememapping.xml
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/colorschememapping.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml
 
@@ -2297,8 +2331,8 @@ Content-Type: text/xml
  bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
 2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
 ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image001.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image001.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -3719,8 +3753,8 @@ wcqFFn3xi18EdoOyxvNfKOvUqVPf/OY3ge/70pe+BIKfWdsFbGZBAhQK8/MPfvCDBx544L777sNy
 dl4dCXJgAAhEjxufHFEQLT9zWQz1/H22eIolIKFeVNOYGQuTS8M2kp6chosoTyhuJh3a6QIWk7MV
 isxp9Buy9UQaFMTWWJZ/lqH+/xUFX+ulBBvAAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image002.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image002.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -5703,8 +5737,8 @@ T9BDlu/lbPPjWdJT/PCHP1QRCB/5yEfw3ZCkcf6LsXAf/frXv45/30c/+tEZg1OzyEzWchgU8/MP
 fvADYgpxm1RpWOZeMr8qB4hv/Os3+gd7yJO2QFDnf1XztHgHSKgXtEZlxuJwUcsBRY96VihPpN8M
 cqrgMc8Dmcw2KJ1zvhTrSRsGUjhW9Z8mqP8PfMpVG8K7M7wAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image003.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image003.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -7567,8 +7601,8 @@ J3ZDQ2P5wrMIH928eTPxfRs2bCh6OLUAZgqmw0NxP2/dupUzhYRNShqWmafMrxIA8eRvnuzt7yJP
 2jeAWv5VlanxFdBQz2qO4saCuLjLAUOPtFXGEx03g56qZMxZMJNSD6Vz6EtET+rwIOGx0n8WUP8D
 5bHoWcif07YAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image004.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image004.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -9008,8 +9042,8 @@ z67tNDIzLQEKhfr5pz/96YMPPnjfffdhObugjAQ5MAOIf/2Xfx0c7lMQLT992QT1wn02c4o5wKFe
 VNOYGguTS8M2kp6cRjZhEJ5Qu5lUaKdZLCbnKhSZ0+g3ZOuJNCiIrbEs/wxB/f8BATy3svW+DHgA
 AAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image005.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image005.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -10600,8 +10634,8 @@ Y2wvJ3toXIvwFL/73e+oB8JXv/pV0JuZrOP8G+4F89Gf//znVCuOKC4w+R5vpTm+ILoqhHEDUbrg
 1/G3f/u3SZeJMaiOf/zk/AYVPnbs8BO/eYwCRWRlRqjnf2kTnjEDJNSLejI0Btr9FZIQI7GagoPU
 bgZyKpljXsIwiMLR4GmjRcVwIzrG0vKThPr/AzDlwa/6UqUCAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image006.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image006.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -11859,8 +11893,8 @@ mIHH66/AGrEE/tznPiecA07ZZGQC29KTTz75+OOPIwmuv/3bv0UOyOd0moK069evR+AYWLnQos98
 GQUV3rFj6z2//qUAisnKxFBPCf3oL0wphsoXdMyMhcmFvVlMF2Kv8lhoJ2ZkFKGdxqEHReY8+g0b
 tMgbBQkaK/LPMdT/DzMDWpqZ+u7rAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image007.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image007.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -13293,8 +13327,8 @@ NR28hHYZ5H4r4e7ggXTZiX/iMmvZRV2n8BTEKiRsNeyy+P0YSIQCBwCJk9pEhsVY9SfLgYTvUOaw
 pg7TWZ9Xn8Km2+DUKAcnXZietGpcxLM9b94XA12pGbE9VMR9gH5kzGMWSKjnNTDoNhY0cyqWkQPZ
 fnCS2s1g9Ub6dArTIAofiKdIuhEPonMsLT9OqP8/YPaXb/enO7MAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image008.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image008.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -14748,8 +14782,8 @@ vLtz504EjoGWCyP6/Oc/D9sNShovfKGt06dPf/3rX4d93xe+8AUA/OzeTiEzUwqgUaiff/KTnzz8
 8MPvf//7gc4uKCNBDcwA4r/+878GhnoVRMtPXxZBvfCcTV9iFnCoFzU0psbC5tJwjGSJeJnwhNrN
 pEI7zQCZnKtRVE6j35CjJ8qgIYZjWf0Zgvr/A9X9ZnHyUi/aAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image009.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image009.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -16328,8 +16362,8 @@ cJYV+aINQB8Dqc63vvUtEBjGpF6asuqiDdACzEN8ZmXPv0giq9NZGiOQRmyBv/a1rzHjgIs+Ml5j
 s3OXmAMc6iU9GlNj4eVKYhtJM6fhIMITajeTCu00g8XkfI2ichr9hmw9UQYNsTWW1Z8hqP8f+oHK
 ZeZW9dYAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image010.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image010.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -18018,8 +18052,8 @@ aC4ZEnJL8zynlBiCDMMAAzw902NszjnGSJaLFRljqN2orrEt6CqleO+p77PW8sC3s125mRUApaSf
 Qwhaa6UU5qx5RwKDFECM1/H+uF3olv+Rv0Ntv7N9xA+cUE8tTdJYbK4nYWT9cxqyXJ7Uupl3a6cO
 Y3KkFPLa/WYJPcGgSGys8H8d6gs4s2gtSb/7YAAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image011.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image011.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -19540,8 +19574,8 @@ rTECacQW+Ctf+Qo1Drhok5EJdEsvvPDCc889h1dw/eZv/iZyQD5zqR7efffdd//zP/8TWi606Nd/
 NYD453/65+HRAQXR8jMXI6gX77Nzp8gDDvWSmkbVWJhcGraR9slpuIjwxLabSYd2msNicr5Ckbkd
 /YZsPZEGBdE1luafJaj/f6o+ZAcF8xhwAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image012.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image012.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -20797,8 +20831,8 @@ cvG5oRI2QPvBD36ARSasDMFMA1BfTAzIYUdHB2w+qVb8/vvvx/Z86NAu+C5dFcIwBCM4cCpqCtm+
 /fbbMZxdUEeC3FIDiG9/69vDowMuuHTNXYxQL4h8NsAHmlDJ1NixjKHnS+Z7Fh7SJUvIqWQaeRGD
 yfnwRORo8GiHdB6MhGgXpvHnJdT/H/m6+d427I5xAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image013.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image013.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -22388,8 +22422,8 @@ m0zYGYKZBki9nKLBenp6ev7mb/6GasW/8IUv3H333bBbueK7dFcIC3EYwVEnPvv373/00UfBzq6o
 IyELE8MA4q/+8q8mpkYtcOl6iQtQawLq0rT5WAOq4diXWIdgKZNt2EG1cWSTEYaZV1KgXn4MI3MM
 eMPtFJmmFJupDJ29h/r/B+ulumsG6rcaAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image014.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image014.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -23685,8 +23719,8 @@ Du2ScemqEIYhGMGBU1FTd9xxx3333YfhrKhXuFAiZGLiGkD87d/87eT0mAKXroWLEeolkc8HeFcT
 Kpl8upYxRE1TYtiBL+mSJeRUMo1cag9bBFQkjgaPdkglZryIjrE0/SKh/h8i+IcBRFbcdwAAAABJ
 RU5ErkJggk==
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image015.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image015.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -25067,8 +25101,8 @@ t76FRabf//3fX7RoEaAeT9IYeo4fPw6bT9KKP/7447feeitsT877Lq0KYSJORnCoqXvvvfehhx7C
 cFasVxgxHjYx8Q0g/v5//31751kN7iGm5MUJdUKqDYTKJp++dQj0bcWGHaSNY4uMMMz01UsXnQNE
 jgaPdkiREDeTDF0sof7/tFvG6uRF7eQAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image016.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image016.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -26547,8 +26581,8 @@ f/zHf8Qi0x/+4R8uX74cUF/JozH0NDc3w+aTasWfe+65O+64A7Ynl72XrgphIg4jOHAqWuqBBx54
 7LHHMJxdVkdCJiaOAcT/+Lv/0dvf5YJ7iFl5MEKdkmYDoZLJp2MZA81crmEHLtIlS8ipZBp5pW/Y
 JOVE5ujw6Ic0E8rNVIbOlVD/fxC6UBouuRGsAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image017.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image017.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -28593,8 +28627,8 @@ iv61r33NDuIDhda2bdskSboSARU6jCrf+ta3xsaHBeGyYWNJqP05CPVD3dq/nXLkv4VDzW2Z9+nb
 ZRCqrT29sn33B1oqpxe3tVdzDDtsegXaCkJCf/CR2gI8fLBpiW0Xi/C4M1ZRFuS07XJyHOr/BVmT
 g6yvg0EvAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image018.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image018.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -30057,8 +30091,8 @@ L936gEWW/2c4hj1jTlTQBGj/+I//iEWm3/qt31qxYgWgns+jMfS0t7fD5pNqxZ944ombb74Ztifn
 vJeuCmEiDiM4cCre1I4dO+6//34MZ+fUkZCJiWMA8dd/9ddDI/0uuIe4Kg9GqJfltRGn846dHNoV
 NFW5hh24SJcsIaeSaeR8e9gc5UTmaPA0PCV+ptxMZehcCfX/B065N1e6JdkuAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image019.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image019.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -31502,8 +31536,8 @@ BqCeDhoYemBpCZtPqhVHFBe4t0GHdtF76aoQJuLf+ta3YJPx9a9/na7+xOXdEet65EOVDSMkNCZj
 FPjU6eMPP/zftOTk3vkhoTJCvWgDuHwJ6Lo4XcZC40k27KAyLtEbI7jNyNrNzEqCzNHgE2tklJvp
 HDFZQv3/ATeyynL/lVt4AAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image020.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image020.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -32928,8 +32962,8 @@ rHlMqBEyXliiz+sbGx/5h3/8u/HxMbQvvmSusCs/bsaaJXv61TSh4tSKk+XKW2lFV6IpYUFhvMX8
 b5ly7xp+0CQkSoQNHMqIi2yWyxufaYckzvClK5ok+RvxZSGmGJcs/38al9E6yqQd9wAAAABJRU5E
 rkJggk==
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image021.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image021.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -34407,8 +34441,8 @@ sPmkUvH3v//9cM+HDO28z1KtEFRQX/7yl2GT8YUvfIFqf1L8blYuESpsSBOhCQWjwocO7//xj39I
 a06enR0cKiOo5x0Al+4GKnXAYAAricGTbdhBeVwiN6ahnS5gMTlbPVE4BnxGR0ZpM90jZnOo/x+y
 dxj+G/w8vwAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image022.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image022.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -36011,8 +36045,8 @@ d999910UjQqgRagzak5J49UvlNXR0fFXf/VX2Ob/6q/+Kij65dqLSs7ZFygUB1oQvn3iE5947LHH
 sJxdVUaCIpgCxP/9m/87MjYI04tsRTlBvXqfzZ1iURFU5n0XoxHbylzFDsbjErkx0aK6yLnTteKG
 zDG/smdkjDYzaWuuyPf/D101UneFzTi5AAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image023.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image023.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -37644,8 +37678,8 @@ L/4iKPqV6otCLtgW+Cg2tCB8+9SnPvX4449jOrumjASfoAoQ/+cv/8/YxDBML3IFZQT12m22cIpl
 RVCp9130Riwr8xU7KI9L5MZEi+oS507Xixsyx/jK7ZFR2kylrfki3/8/mP95ohlhi5cAAAAASUVO
 RK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image024.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image024.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -39280,8 +39314,8 @@ ol+pvajknH2BQnGgBeHbhz/84cceewzL2TVlJCiCKkD836/835GxQZhezNAwRlCv3WlzplhUBJV6
 38VoxLYyV7GD8rhEbky0qC5x7nS9sCFzzK/sGRmlzVTamivy/f8BfjkF6DSIFxwAAAAASUVORK5C
 YIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image025.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image025.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -40933,8 +40967,8 @@ fx0U/ULtRSXP2xcoFAdaEL594hOfeOyxx7CcXVJGgiKYAsT//db/HZsYhunFHA3jBPXSnXbeFDcV
 QWXedzEasa3MV+xgPC6RGxMtqrOcO10ubMgc8yt3RsZoM5O25ot8/39fk0X2UVeL2wAAAABJRU5E
 rkJggk==
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image026.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image026.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -42700,8 +42734,8 @@ mX/nnXci0c/3vjRyyrGgUgxaKN9uuOGG6667DnZ2QR0JVSgAxE8f+2nfwGlcLyZk2LcC9cKDNmWK
 3yuBqqLvQo0sK7OBHWqPK/TGAkU1KbjTxXYbhTO/MjYyJZuVtjVb5fv/XyoDW4Ts9dsAAAAASUVO
 RK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image027.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image027.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -44302,8 +44336,8 @@ TPN/+Zd/GRz9YvVFIS/YFvgoFrSgfPvkJz/56KOPgpxdVkeCT1ADiP/zzf8zPjkC14s5HsYY6uUb
 7YIpFhVDpdF30Rsxrcw37KAyLtEbEyuqc4I7XSlsyBzjK7dGRnkz1bbmq3z///YaWZz2QG2JAAAA
 AElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image028.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image028.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -45615,8 +45649,8 @@ H7/11lthhnLhhaISNkD77ne/i0WmP/iDP0DOkf8LSQE5bGtr+/a3v0214o8++ii250OHdt64dFUI
 E3EYwYFTUVPI9j333IPh7Lw6EuSWGkB88xvfHBzuw1787OsYoZ4X+XSAK5pQydTYsYzBVCbXsAMP
 6ZIl5FQyjbyAweRceCJxNHi0Qyox40V0jKXpZwn1/we6XD0ysOtx2wAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image029.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image029.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -47191,8 +47225,8 @@ WOT+5Cc/gSsrzGfsg2KTZl6l09zaYhpjAr/xxhvPP//8F7/4xfvvvx9mKItvFOUCINoPf/hDbDL9
 AcTff/fvR8YGcRb/SsUBak1AnZ84v9GAajj2JUtMLGUyDTuoNo5sMsKK6moK1IXHMDLHgDfcThGO
 RLGZytCZKt//D2GMoqYb9z0MAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image030.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image030.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -48565,8 +48599,8 @@ y1+GcRlGzEv0lVmIFmjmYx/72IYNGzhHXraEoCJodWCCiBunsx582QynTIB3abyOd1wqFBWKoC98
 2WV1JCgtN4D49re+3T/Yg7342ccRoV4W+XSC65pQ2dTYsYxh0R5zDDtwkS9ZQk5l08hpDCYXwxOZ
 o8OjH/LZNg8WyWXoXJXv/wP8QYwIEuiohQAAAABJRU5ErkJggk==
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image031.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image031.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -49936,8 +49970,8 @@ jPb0ZHvWGCUEPNhYI4B2g+v3fu/3YFyGEfM6KACuoISgGdhMrVy5Ehw5mpyDxjBbhAkiHbpyBSkP
 ZgyYiJMRHGoK2X7wwQcxnF1UQYXckgHEP3znH1rbm7AX/6LJjcsAnFDHpFpAqMz0zLEOYV5Ksgw7
 SBvHFhmZFVWOp6pLywwiR4NHO6TuSdxMMnS2yvf/B8Ms9tAgjGccAAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image032.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image032.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -51340,8 +51374,8 @@ UXKUfzw5oISnT5/+wQ9+wLXiTz311O233w7bk4vey2cMmIjDCA6cijeFYj/88MMYzi6qI0FpuQHE
 P373Hzu727AX/6KPuyYTEKFeldcCQmWmZ65lDPNSkmPY4ep+2MoI5FQ21RzHYHJeToWrPwOmNmmd
 FudmLkPnqnz/f+5OSPNk1HZ6AAAAAElFTkSuQmCC
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image033.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image033.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -52848,8 +52882,8 @@ OBd2m7g09UBAm9FytH8uaOBasLT8wQ9+QLXiiOICk2/o0C54Ll0VwkT861//OmwyEFeErv7gL6XG
 MdaJKRviXxNrRoNPnT7+s5/9D205OXdpSKi0kYxQL9gNFqIAXRdHZ6C2V4mGHVTGJXpjxGAZW7u5
 tDagcnT4+BoZ5WY6R0xU+f7/wweK3LjCmoYAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/image034.png
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/image034.png
 Content-Transfer-Encoding: base64
 Content-Type: image/png
 
@@ -54422,8 +54456,8 @@ vz9xoH91VbCtquoH87+p14XjKRvbIYkbgIiwnSI4r0Mzb+2iF37TzuWEhEUDMiHvx3hCxsZyGuNQ
 5kxfpn9z2gYIOPkRVSfb6YRdlhbLerqi9rdC/QXFY2uo5EnAs/gcHW0WqHynBR25Li6XsaRmbqIl
 lLSbQU515rcXPgxSOWydWSOT3Cy1rRNVvv8/IzjOmJ/4idIAAAAASUVORK5CYIJ=
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/header.htm
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/header.htm
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/html; charset="windows-1252"
 
@@ -54440,11 +54474,11 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
 <meta name=3DGenerator content=3D"Microsoft Word 15">
 <meta name=3DOriginator content=3D"Microsoft Word 15">
 <link id=3DMain-File rel=3DMain-File
-href=3D"../SQL_DB_Project_TableAddModify_CICD.htm">
+href=3D"../05-SQL_DB_Project_TableAddModify_CICD.htm">
 <![if IE]>
 <base
-href=3D"file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/header=
-.htm"
+href=3D"file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/hea=
+der.htm"
 id=3D"webarch_temp_base_tag">
 <![endif]><!--[if gte mso 9]><xml>
  <o:shapedefaults v:ext=3D"edit" spidmax=3D"2049"/>
@@ -54501,13 +54535,13 @@ tion-separator'><![if !supportFootnotes]>
 
 </html>
 
-------=_NextPart_01D57185.E688C610
-Content-Location: file:///C:/7812ACA4/SQL_DB_Project_TableAddModify_CICD_files/filelist.xml
+------=_NextPart_01D57195.6CF1CF30
+Content-Location: file:///C:/7812ACA4/05-SQL_DB_Project_TableAddModify_CICD_files/filelist.xml
 Content-Transfer-Encoding: quoted-printable
 Content-Type: text/xml; charset="utf-8"
 
 <xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef=3D"../SQL_DB_Project_TableAddModify_CICD.htm"/>
+ <o:MainFile HRef=3D"../05-SQL_DB_Project_TableAddModify_CICD.htm"/>
  <o:File HRef=3D"themedata.thmx"/>
  <o:File HRef=3D"colorschememapping.xml"/>
  <o:File HRef=3D"image001.png"/>
@@ -54547,4 +54581,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"header.htm"/>
  <o:File HRef=3D"filelist.xml"/>
 </xml>
-------=_NextPart_01D57185.E688C610--
+------=_NextPart_01D57195.6CF1CF30--
